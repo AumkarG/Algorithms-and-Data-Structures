@@ -5,6 +5,6 @@
  
  Solutions to selected solved problems of :
  
- 1) Hackerrank
- 2) CodeChef
- 3) Leetcode
+ 1) Hackerrank : https://www.hackerrank.com/aumkaar_g
+ 2) CodeChef : https://www.codechef.com/users/aumkar_99
+ 3) Leetcode : https://leetcode.com/user9245Z/
